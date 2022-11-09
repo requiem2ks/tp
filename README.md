@@ -26,4 +26,4 @@ BPMN модель.
 ![image](https://user-images.githubusercontent.com/105455039/192946231-6f91ae4a-8e31-40f3-8309-74e9c1424aa9.png)
 
 IDEF1X модель.
-![image](https://user-images.githubusercontent.com/105455039/197893284-44a06c28-413f-45f6-af54-f99fb56a326d.png)
+![image](https://user-images.githubusercontent.com/105455039/200951886-8d7d1a89-edb8-4c2f-85bc-2b319ea2d225.png)
