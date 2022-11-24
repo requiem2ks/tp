@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\kursa.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\kursa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\kursa.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\kursa.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\kursa.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\kursa.MvcApplicationPartsAssemblyInfo.cache

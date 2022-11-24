@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\MusicShop.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\MusicShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\MusicShop.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\MusicShop.AssemblyInfo.cs
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\MusicShop.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\kursa\kursa\obj\Debug\netcoreapp3.1\MusicShop.MvcApplicationPartsAssemblyInfo.cache
