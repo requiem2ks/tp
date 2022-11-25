@@ -12,6 +12,7 @@ namespace praktika1
         public int EmployeeId { get; set; }
         public string? FIOEmployee { get; set; }
         public string? JobTitle { get; set; }
-        public Order? Order { get; set; }
+        public LinkedList<Order> Order { get; set; } = new();
+        
     }
 }

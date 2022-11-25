@@ -11,7 +11,6 @@ namespace praktika1
 {
     public class Order
     { 
-        [Column("OrderId")]
         public int OrderId { get; set; }
         public string? Status { get; set; }
         public DateTime? OrderDate { get; set; }
@@ -20,8 +19,9 @@ namespace praktika1
         public int? EmployeeID { get; set; }
         public bool? OfflinePurchase { get; set; }
         public int? DeliveryID { get; set; }
-        //public Employee? Employee { get; set; }
-        public LinkedList<Employee> Employee { get; set; } = new();
+        public bool? TheNeedForCustomization{ get; set; }
+
+        public Employee? Employee { get; set; }
 
     }
 }

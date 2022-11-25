@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program Files\\Microsoft Visual Studio\\ConsoleApp17\\ConsoleApp17.csproj": {}
+    "D:\\Program Files\\Microsoft Visual Studio\\praktika\\ConsoleApp17.csproj": {}
   },
   "projects": {
-    "D:\\Program Files\\Microsoft Visual Studio\\ConsoleApp17\\ConsoleApp17.csproj": {
+    "D:\\Program Files\\Microsoft Visual Studio\\praktika\\ConsoleApp17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program Files\\Microsoft Visual Studio\\ConsoleApp17\\ConsoleApp17.csproj",
+        "projectUniqueName": "D:\\Program Files\\Microsoft Visual Studio\\praktika\\ConsoleApp17.csproj",
         "projectName": "ConsoleApp17",
-        "projectPath": "D:\\Program Files\\Microsoft Visual Studio\\ConsoleApp17\\ConsoleApp17.csproj",
+        "projectPath": "D:\\Program Files\\Microsoft Visual Studio\\praktika\\ConsoleApp17.csproj",
         "packagesPath": "C:\\Users\\Дмитрий\\.nuget\\packages\\",
-        "outputPath": "D:\\Program Files\\Microsoft Visual Studio\\ConsoleApp17\\obj\\",
+        "outputPath": "D:\\Program Files\\Microsoft Visual Studio\\praktika\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Дмитрий\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,7 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.10, )"
+              "version": "[3.1.30, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
