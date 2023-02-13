@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=Localhost\\SQL_SERVER;Database=MusicShop;Trusted_Connection=True;"
+  }
+}
